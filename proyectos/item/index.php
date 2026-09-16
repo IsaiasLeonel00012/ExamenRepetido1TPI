@@ -6,13 +6,32 @@
     <title>Document</title>
 </head>
 <body>
-  <label for="nombre">nombre</label>
-  <input type="nombre" name="">
+<label for="nombre">nombre</label>
+<input type="nombre" name="">
 
-  <label for="email">email</label>
-  <input type="email">
+<label for="email">email</label>
+<input type="email">
 
-  <label for=""></label>
+<label for="">Tipo de equipo</label>
+<select name="seleconar" id="">
+    <option value="Lapto">Lapto</option>
+    <option value="Pc Escritorio"></option>
+</select>
+
+
+<label for="">tipo problema </label>
+<select name="seleconar" id="">
+    <option value="hp">dianostico</option>
+    <option value="Dell">limpieza interna</option>
+    <option value="wateway"></option>
+
+
+</select>
+
+
+
+
+
 
 
 
